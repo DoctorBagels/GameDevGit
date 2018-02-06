@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 40743ecea828a7b4f8a59dadd38a18a0
+timeCreated: 1516897152
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stay Wildy Personal Use Only
+  fontNames:
+  - Stay Wildy Personal Use Only
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
